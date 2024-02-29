@@ -1,0 +1,21 @@
+// add event listeners to all numbers ✅
+// accept minus as numbers ✅
+// Numbers.
+
+it will take the number and it value ✅
+// calculate logic 
+first number => currentNumber
+operator
+second number => currentNumber
+// equal buttons
+if there is a first number, second number and an operator
+save the result, otherwise do not do anything.
+
+// Start logic of Delete Button
+DELETE will delete the last element, in case there is 0 alone it will delete nothing.
+there is a default value of 0, when the user enter any degit plus a dot (.) it will change the 0.
+
+ // Reset ✅
+ it will delete the values of first number, second number, result, and operator.
+ // operations 
+ if there is a first number add the operation once, otherwise ignore it. 
